@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377510480226",
+    "project_id": "kavackraksha",
+    "storage_bucket": "kavackraksha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377510480226:android:5070f0ca365627bb6f843b",
+        "android_client_info": {
+          "package_name": "com.example.kavach_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-0Seq4id1e6arxtW_bd3JUzF-cGAESFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
